@@ -1,4 +1,4 @@
-# SQL-university-data-with-query-solution-
+# SQL-university-data-and-query-solution-
 
   UNIVERSITY STUNDENTS DATA WITH DATA, QUESTION AND SOLUTION 
   USING BASIC TO ADVANCE QUERY 
