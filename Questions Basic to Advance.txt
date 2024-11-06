@@ -1,0 +1,29 @@
+1. Basic Queries
+
+Write a query to list all students who enrolled in the current year.
+Retrieve the list of all unique courses.
+Find the names of all students who are 18 years or older.
+
+2. Aggregation and Grouping
+
+Find the average age of students enrolled in each course.
+Write a query to calculate the total number of students in each department taught by each instructor.
+List the  highest, and lowest grades for each course.
+
+3. Joining Tables
+
+Retrieve a list of students and the courses they are enrolled in.
+Write a query to display the student names along with the names of their instructors.
+List all students and their grades for courses taught by a specific instructor.
+
+4. Subqueries and Nested Queries
+
+List the names of all students enrolled in the course with the highest number of enrollments.
+Write a query to find the course in which the highest grade was awarded.
+Find students who are taking more than 3 courses and their names 
+
+5. Advanced Queries
+
+Retrieve the top 2 students with the highest grades in each course.
+Write a query to show the students who have the lowest grade in their respective courses.
+Display the names of instructors who are teaching more than 2 students
