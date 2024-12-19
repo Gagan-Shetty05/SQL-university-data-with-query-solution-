@@ -206,6 +206,8 @@ WITH RankedGrades AS (
         Students s ON e.student_id = s.student_id
 )
 
+--Display the names of instructors who are teaching more than 2 students
+
 SELECT 
     course_id,
     student_id,
